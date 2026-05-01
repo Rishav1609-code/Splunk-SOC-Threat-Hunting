@@ -86,6 +86,7 @@ Based on the threat intelligence gathered during this Splunk investigation, I re
 │   └── SOC_Task_02_Report.pdf          # Detailed incident response documentation
 ├── Screenshots/                        # Splunk query proofs and visualizations
 └── README.md                           # Project documentation
+```
 
 ## ⚠️ Disclaimer
 All security investigations, threat hunting exercises, and log analyses documented in this repository were conducted using simulated, intentionally generated sample datasets within a controlled environment. This project is strictly for educational, portfolio, and research purposes. No actual enterprise networks, live systems, or real user data were compromised or analyzed.
